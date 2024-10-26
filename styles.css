@@ -1,0 +1,44 @@
+#task-input{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:#e10f0f;
+    color: white;
+    border-color: aquamarine;
+}
+#task-button{
+    padding: 8px;
+    border-radius:  20px;
+    width: 70px;
+    background-color:#e10f0f;
+    color:white;
+    border-color: aquamarine;
+}
+#task-box{
+    background-color: grey;
+    padding: 12px;
+    width: fit-content;
+    border-radius: 20px;
+}
+#gorev{
+    display: flex;
+    width: 150px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    width: fit-content;
+    border-radius: 16px;
+}
+#checkbox{
+    height: 24px;
+    width: 24px;
+    border-radius: 20px;
+}
+#delete-button{
+    width: 40px;
+    padding: 10px;
+    background-color: #e10f0f;
+    border: none;
+    color: white;
+    border-radius: 60px;
+    font-size: larger;
+}
